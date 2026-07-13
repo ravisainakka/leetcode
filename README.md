@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ravisainakka/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/ravisainakka/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravisainakka/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/ravisainakka/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ravisainakka/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ravisainakka/leetcode/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/ravisainakka/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ravisainakka/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/ravisainakka/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ravisainakka/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
